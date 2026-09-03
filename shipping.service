@@ -5,8 +5,8 @@ Description=Shipping Service
 [Service]
 User=roboshop
 // highlight-start
-Environment=CART_ENDPOINT=cart.daws84s.cfd:8080
-Environment=DB_HOST=mysql.daws84s.cfd
+Environment=CART_ENDPOINT=cart.kodari.online:8080
+Environment=DB_HOST=mysql.kodari.online
 // highlight-end
 ExecStart=/bin/java -jar /app/shipping.jar
 SyslogIdentifier=shipping
