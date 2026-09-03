@@ -323,3 +323,8 @@ dispatch.kodari.online → Private IP
 
 kodari.online → Frontend Public IP
 ```
+
+R → Red
+G → Green
+Y → Yellow
+N → Normal
